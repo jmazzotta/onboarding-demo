@@ -37,9 +37,14 @@
     "globalMetadata": {
       "breadcrumb_path": "/onboarding-demo/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+            "feedback_system": "GitHub",
+      "feedback_github_repo": "jmazzotta/onboarding-demo",
+      "feedback_product_url": "http://google.com/"    
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+       "feedback_system": {
+             "docs-ref-autogen/**/*": "None"}
+    },
     "template": [],
     "dest": "onboarding-demo",
     "markdownEngineName": "markdig"
