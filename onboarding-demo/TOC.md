@@ -1,1 +1,1 @@
-# [Index](index.md)
+# [Onboarding](setup.md)
