@@ -2,7 +2,7 @@
 # Mandatory fields. See more on aka.ms/skyeye/meta.
 title: useful links for onboarding to Docs
 description: Getting started 
-author: Joe Mazzotta
+author: jmazzotta
 ms.author: joemaz
 ms.date: 08/11/2018
 ms.topic: contributor-guide
@@ -16,9 +16,7 @@ ms.prod: docs
 3. 
 4. Step 1 of 3:
 
-   ![provision conceptual repo step 1](media/portal-provision-con-step1.png)
-
-   - **1: Account/Organization** Select from the list available to you, based on the GitHub or VSTS ID you signed in with.
+    - **1: Account/Organization** Select from the list available to you, based on the GitHub or VSTS ID you signed in with.
    - **2: Repo Name** To create a new repo, type the desired name. This should generally be short and indicate the content of the repo. Check with your team for specific naming guidelines. To add a new doc set to an existing repo, you would select the repo from the drop-down list.
    - **3: Private Repository** Check the box to make your repo private. By default it will be public.
    - **4: Locale** For English repos, keep the default, en-us.
@@ -29,8 +27,6 @@ ms.prod: docs
 
 1. Step 2 of 3:
    
-   ![provision conceptual repo step 2](media/portal-provision-con-step2.png)
-
    - **1: Doc set Name** The name of the new conceptual doc set you are creating. In general this should be short, descriptivem and appropriate to use as part of URL paths to your topics. Check the SEO  and URL guidelines (linked above) and your team naming guidelines.
    - **2: Doc set Folder** The folder in the repo to contain your doc set files. This is usually the same as the doc set name, but you do have to type it in again.
    - **3: Site/Themes** The site to publish to. Choose **Docs** (the default) unless it is your team policy to publish to another site and you have permission to do so. Content published to MSDN, TechNet, and VisualStudio.com will not be published live. <!-- need  clarification on this -->
