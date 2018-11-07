@@ -41,6 +41,7 @@
   "need_generate_pdf_url_template": true,
   "need_generate_pdf": true,
    "need_generate_intellisense": false,
+    "git_repository_url_open_to_public_contributors": "https://github.com/jmazzotta/reference-demo",
   "git_repository_branch_open_to_public_contributors": "master",
   "enable_incremental_build": true
 }
