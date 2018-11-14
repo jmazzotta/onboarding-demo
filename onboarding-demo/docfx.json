@@ -11,6 +11,7 @@
           "**/includes/**",
           "_themes/**",
           "_themes.pdf/**",
+          "**/_themes.pdf/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",

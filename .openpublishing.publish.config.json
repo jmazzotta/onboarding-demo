@@ -33,7 +33,16 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": { "master": ["Pdf"]},
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ],
+    "master": [
+      "Publish",
+      "Pdf"
+    ]
+  },
   "targets": {},
   "need_generate_pdf_url_template": true,
   "need_generate_pdf": true
