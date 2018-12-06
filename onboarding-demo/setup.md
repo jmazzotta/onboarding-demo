@@ -4,7 +4,6 @@ title: useful links for onboarding to Docs
 description: Getting started 
 author: jmazzotta
 ms.author: joemaz
-ms.date: 08/11/2018
 ms.topic: contributor-guide
 ms.prod: docs
 ---
