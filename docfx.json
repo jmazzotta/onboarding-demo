@@ -8,7 +8,7 @@
         ],
                 "src": "excel-js-1.4",
                 "version": "excel-js-1.4",
-                "dest": "excel"
+                "dest": "excel",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -34,7 +34,7 @@
           "**/includes/**",
           "_themes/**",
           "_themes.pdf/**"
-        ]
+        ],
        "version": "excel-js-1.4"
       }
     ],
