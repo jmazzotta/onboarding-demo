@@ -3,3 +3,7 @@
   items:
   - name: Test
     href: test1.md
+  - name: Setup
+    href: setup.md
+  - name: Edit Button
+    href: edit-button.md

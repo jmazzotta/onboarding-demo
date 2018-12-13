@@ -1,6 +1,9 @@
-- name: Onboarding-demo
-  tocHref: /onboarding-demo/
-  topicHref: /onboarding-demo/index
+- name: Overview
+  href: index.md
   items:
-  - name: Setup Index
-    tocHref: /excel-js-1.4/
+  - name: Testing
+    href: test1.md
+  - name: Set-up
+    href: setup.md
+  - name: Edit Button
+    href: edit-button.md
