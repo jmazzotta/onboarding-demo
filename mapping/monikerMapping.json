@@ -4,11 +4,5 @@
         "conceptualToc":"onboarding-demo/toc.yml",
         "conceptualTocUrl": "/onboarding-demo/toc.json",
         "referenceTocUrl": "/onboarding-demo/excel/toc.json"
-    },
-    "excel-js-1.5": {
-        "packageRoot": "excel-js-1.5",
-        "conceptualToc":"onboarding-demo/toc.yml",
-        "conceptualTocUrl": "/onboarding-demo/toc.json",
-        "referenceTocUrl": "/onboarding-demo/excel/toc.json"
     }
 }
