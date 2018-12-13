@@ -18,7 +18,7 @@
 			},
 			{
 				"files": [
-					"toc.yml"
+					"bread/toc.yml"
 				],
 				"src": "onboarding-demo",
 				"version": "excel-js-1.4",
@@ -67,7 +67,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/onboarding-demo/breadcrumb/toc.json",
+      "breadcrumb_path": "/bread/toc.json",
       "extendBreadcrumb": true,
             "feedback_system": "GitHub",
       "feedback_github_repo": "jmazzotta/onboarding-demo",
