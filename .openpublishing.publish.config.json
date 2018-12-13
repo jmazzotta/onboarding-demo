@@ -1,4 +1,12 @@
 {
+"JoinTOCPlugin": [
+    {
+      "ReferenceTOC": "excel-js-1.4/toc.yml",
+      "ReferenceTOCUrl": "/excel/toc.json",
+      "ConceptualTOC": "onboarding-demo/toc.yml",
+      "ConceptualTOCUrl": "/onboarding-demo/toc.json"
+    }
+  ],
   "docsets_to_publish": [
     {
       "docset_name": "onboarding-demo",

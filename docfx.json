@@ -34,14 +34,14 @@
 			},
 			{
 				"files": [
-					"toc.yml"
+					"bread/toc.yml"
 				],
 				"src": "excel-js-1.4",
 				"version": "excel-js-1.4",
 				"dest": "excel/excel-js-1.4"
 			},{
 				"files": [
-					"toc.yml"
+					"bread/toc.yml"
 				],
 				"src": "bread",
 				"version": "excel-js-1.4",
@@ -67,7 +67,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/bread/toc.json",
+      "breadcrumb_path": "/onboarding-demo/toc.json",
       "extendBreadcrumb": true,
             "feedback_system": "GitHub",
       "feedback_github_repo": "jmazzotta/onboarding-demo",
