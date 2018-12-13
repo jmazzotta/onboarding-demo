@@ -9,6 +9,16 @@
                 "src": "excel-js-1.4",
                 "version": "excel-js-1.4",
                 "dest": "excel",
+ },
+            {
+                "files": [
+                    "**/*.md",
+                    "**/*.yml"
+                ],
+                "src": "onboarding-demo",
+                "version": "excel-js-1.4",
+                "dest": "."
+            },
         "exclude": [
           "**/obj/**",
           "**/includes/**",
