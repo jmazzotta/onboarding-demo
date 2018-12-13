@@ -14,7 +14,7 @@
       "build_output_subfolder": "onboarding-demo",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": ["= excel-js-1.4"],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
