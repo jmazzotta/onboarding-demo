@@ -5,23 +5,6 @@
           "**/*.md",
           "**/*.yml"
         ],
-        "group": "excel-js-1.4",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ],
-        "src": "excel-js-1.4"
-      },
-      {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
         "group": "onboarding-demo",
         "exclude": [
           "**/obj/**",
@@ -33,6 +16,23 @@
           "ThirdPartyNotices"
         ],
         "src": "onboarding-demo"
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "group": "excel-js-1.4",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ],
+        "src": "excel-js-1.4"
       }
     ],
     "resource": [{
@@ -45,8 +45,8 @@
           "**/obj/**",
           "**/includes/**"
         ],
-        "src": "excel-js-1.4",
-        "group": "excel-js-1.4"
+        "src": "onboarding-demo",
+        "group": "onboarding-demo"
       },
       {
         "files": [
@@ -57,14 +57,14 @@
           "**/obj/**",
           "**/includes/**"
         ],
-        "src": "onboarding-demo",
-        "group": "onboarding-demo"
+        "src": "excel-js-1.4",
+        "group": "excel-js-1.4"
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "titleSuffix": "onboarding-demo",
+      "titleSuffix": "Onboarding-demo",
       "uhfHeaderId": "MSDocsHeader-DotNet",
       "extendBreadcrumb": true,
       "feedback_system": "GitHub",
@@ -77,12 +77,12 @@
     "exportRawModel": true,
     "groups": {
       "legacy": {
-        "dest": "excel-js-1.4",
-        "moniker_range": "<= excel-js-1.4"
-      },
-      "active": {
         "dest": "onboarding-demo",
-        "moniker_range": ">= excel-js-1.4"
+        "moniker_range": "= excel-js-1.5"
+      },
+      "excel-js-1.4": {
+        "dest": "excel-js-1.4",
+        "moniker_range": "= excel-js-1.4"
       }
     },
     "markdownEngineName": "markdig"

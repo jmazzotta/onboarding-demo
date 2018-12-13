@@ -1,8 +1,0 @@
-{
-    "excel-js-1.4": {
-        "packageRoot": "excel-js-1.4",
-        "conceptualToc":"onboarding-demo/toc.yml",
-        "conceptualTocUrl": "/onboarding-demo/toc.json",
-        "referenceTocUrl": "/onboarding-demo/excel/toc.json"
-    }
-}
