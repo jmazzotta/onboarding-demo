@@ -5,7 +5,7 @@
     "build_output_subfolder": "conceptual",
     "locale": "en-us",
     "monikers": [],
-    "moniker_ranges": [">= excel-js-1.4"],
+    "moniker_ranges": ["<= excel-js-1.6"],
     "open_to_public_contributors": false,
     "type_mapping": {
       "Conceptual": "Content",

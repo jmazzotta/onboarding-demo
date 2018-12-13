@@ -1,9 +1,3 @@
-- name: Reference
-  href: index.md
-  items:
-  - name: Tested
-    href: test2.md
-  - name: Set-up
-    href: setup.md
-  - name: Edit Button
-    href: edit-button.md
+- name: reference
+  tocHref: /
+  topicHref: /excel/index
