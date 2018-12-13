@@ -76,7 +76,7 @@
     "dest": "onboarding-demo",
     "exportRawModel": true,
     "groups": {
-      "legacy": {
+      "onboarding-demo": {
         "dest": "onboarding-demo",
         "moniker_range": ">= excel-js-1.5"
       },
