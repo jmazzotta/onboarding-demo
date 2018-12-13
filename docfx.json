@@ -1,37 +1,53 @@
 {
-  "build": {
-    "content": [
-      {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-                "src": "excel-js-1.4",
-                "version": "excel-js-1.4",
-                "dest": "excel",
- },
-            {
-                "files": [
-                    "**/*.md",
-                    "**/*.yml"
-                ],
-                "src": "onboarding-demo",
-                "version": "excel-js-1.4",
-                "dest": "."
-            },
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/_themes.pdf/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      }
-    ],
+	"build": {
+		"content": [{
+				"files": [
+					"**/*.md"
+				],
+				"src": "onboarding-demo",
+				"version": "excel-js-1.4",
+				"dest": ".",
+				"exclude": [
+					"**/obj/**",
+					"**/includes/**",
+					"README.md",
+					"LICENSE",
+					"LICENSE-CODE",
+					"ThirdPartyNotices"
+				]
+			},
+			{
+				"files": [
+					"toc.yml"
+				],
+				"src": "onboarding-demo",
+				"version": "excel-js-1.4",
+				"dest": "./excel-js-1.4"
+			},
+			{
+				"files": [
+					"**/*.md"
+				],
+				"src": "excel-js-1.4",
+				"version": "excel-js-1.4",
+				"dest": "excel"
+			},
+			{
+				"files": [
+					"toc.yml"
+				],
+				"src": "excel-js-1.4",
+				"version": "excel-js-1.4",
+				"dest": "excel/excel-js-1.4"
+			},{
+				"files": [
+					"toc.yml"
+				],
+				"src": "bread",
+				"version": "excel-js-1.4",
+				"dest": "./bread"
+			}
+		],
     "resource": [
       {
         "files": [
