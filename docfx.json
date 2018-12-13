@@ -15,14 +15,6 @@
 					"LICENSE-CODE",
 					"ThirdPartyNotices"
 				]
-			},
-			{
-				"files": [
-					"bread/toc.yml"
-				],
-				"src": "onboarding-demo",
-				"version": "excel-js-1.4",
-				"dest": "."
 			}
 		],
     "resource": [
