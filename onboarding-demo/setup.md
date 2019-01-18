@@ -2,7 +2,7 @@
 # Mandatory fields. See more on aka.ms/skyeye/meta.
 title: useful links for onboarding to Docs
 description: Getting started 
-author: jmazzotta
+author: joe-test
 ms.author: joemaz
 ms.date: 08/11/2018
 ms.topic: contributor-guide
