@@ -9,6 +9,12 @@ ms.prod: docs
 ---
 # Useful links for anyone Onboarding to Docs
 
+|Column1  |Column2  |
+|---------|---------|
+|Row1     |         |
+|Row2     |         |
+
+
 1. It is required to have basic understanding of Git, Github including creating a Pull Request (PR), merging or resolving merge conflicts, and an understanding of commits. Here is more info: https://microsoft.sharepoint.com/:p:/r/teams/MAXCommercialTechNettoDocsmigration/_layouts/15/Doc.aspx?sourcedoc=%7B44e20ca0-dd32-4c2d-a074-f86c9f99252c%7D&action=edit&uid=%7B44E20CA0-DD32-4C2D-A074-F86C9F99252C%7D&ListItemId=91&ListId=%7BF0DAE79D-B89F-4176-A132-D742D5FE939D%7D&odsp=1&env=prodbubble
 
 2. Microsoft Docs is a platform where external users, customers, developers come to learn or use Microsoft technical content.
